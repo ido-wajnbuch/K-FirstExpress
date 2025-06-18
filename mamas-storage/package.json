@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "uuid": "^11.1.0"
+  }
+}
